@@ -1,0 +1,6 @@
+framework module ApiSDKPod {
+  umbrella header "ApiSDKPod.h"
+
+  export *
+  module * { export * }
+}
